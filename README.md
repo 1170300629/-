@@ -1,6 +1,6 @@
 # -
 主要存放一些可以分享的代码
-## Chinese Word Segmentation
+## ChineseSegmentation
     目录结构：
         src
           division    源代码
